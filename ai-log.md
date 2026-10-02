@@ -41,3 +41,20 @@ This log records the interactions with AI assistants during the implementation o
 * **Decision:** Accepted
 * **Reason:** Ensured all observable acceptance criteria and verification methods were accurately covered in the PR description.
 * **Related GitHub URL:** https://github.com/mervefilizbaker1/swe325_525-github-ai-practice/pulls
+
+## Reflection Questions
+
+### 1. Which GitHub action or object was most useful to you, and why?
+The pull request and its review process were the most useful because they provided a centralized interface to verify acceptance criteria, link related issues, and document code changes before merging into the main branch.
+
+### 2. Which AI suggestion did you accept, and what made it useful?
+The AI suggestion to use a structured table and categorized decision logs (`Accepted`, `Revised`, `Rejected`) for the AI-use log was accepted because it directly fulfilled the assignment criteria clearly and transparently.
+
+### 3. Which AI suggestion did you revise or reject, and why?
+The initial README structure suggested by the AI was revised to tailor the content specifically with my course details, student name, and project goals.
+
+### 4. What did you verify yourself instead of trusting the AI?
+I manually verified all GitHub repository links, branch names, commit history, and the PR merge status directly on GitHub to ensure they matched the exact URLs and requirements.
+
+### 5. What would you change in your GitHub workflow next time?
+Next time, I would incorporate smaller, more frequent commits tied to granular sub-tasks and utilize local command-line branch management alongside the web interface for faster iteration.
